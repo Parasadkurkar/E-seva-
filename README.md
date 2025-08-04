@@ -55,7 +55,7 @@ The platform is built using the **MERN Stack**, **Google Maps API**, and **Email
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/bhoirprathmesh/MiniProject_10.git
+git clone https://github.com/Parasadkurkar/MiniProject_10.git
 cd MiniProject_10
 ```
 
